@@ -1,0 +1,8 @@
+{
+  "name": "EduPredict Intelligence AI",
+  "description": "Cohort Trajectory & Mathematical Telemetry platform featuring Polynomial Regression and Bayesian Predictive Analytics for academic performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
